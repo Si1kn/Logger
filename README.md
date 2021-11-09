@@ -1,2 +1,2 @@
 # Logger
-My logger for my java projects
+My custom logger. Basic and probs bugs.
